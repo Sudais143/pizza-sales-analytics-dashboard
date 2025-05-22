@@ -46,13 +46,13 @@ The **Pizza Sales Analytics Dashboard** is a visual storytelling Power BI projec
 
 ## 📸 Snapshots
 
-```markdown
-![Pizza Insights Overview](./snapshot_pizza_main.png)
-![Hourly and Daily Trend](./snapshot_pizza_hourly.png)
-![Revenue by Size and Category](./snapshot_pizza_extended.png)
-```
 
----
+
+---![WhatsApp Image 2025-05-22 at 09 33 18_88164624](https://github.com/user-attachments/assets/8c170403-a6b5-4236-b375-19fbb07b413b)
+
+![WhatsApp Image 2025-05-22 at 09 33 33_0e2e0974](https://github.com/user-attachments/assets/fc0958f0-036f-45a0-9e03-6ab9ae7055d8)
+
+
 
 ## 🚀 Final Thoughts
 
